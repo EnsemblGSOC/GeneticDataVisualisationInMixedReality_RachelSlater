@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d3e808aa44da68e40862ac9c570191f7
+timeCreated: 1503624452
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - seqTextPanel: {fileID: 224426755991816244, guid: d9a8067fe1484104b8d25e63cbcc149d,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

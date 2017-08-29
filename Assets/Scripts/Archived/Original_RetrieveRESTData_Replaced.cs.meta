@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7cc9608e72065754398685468820a2df
+timeCreated: 1500482198
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - keyboard: {fileID: 22458684, guid: 76458956c94a4b54093a567b4397b904, type: 2}
+  - theKeyboard: {instanceID: 0}
+  - inputPanel: {instanceID: 0}
+  - inputField: {instanceID: 0}
+  - keyboardInput: {instanceID: 0}
+  - keyboardInputText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
