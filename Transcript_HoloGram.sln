@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transcript_HoloGram.Plugins", "Transcript_HoloGram.Plugins.csproj", "{DDD2244E-548C-3CA7-D4D0-021D4B98CF8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transcript_HoloGram", "Transcript_HoloGram.csproj", "{767CA6A5-7C88-A443-F952-AD91B34B6746}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transcript_HoloGram.Editor", "Transcript_HoloGram.Editor.csproj", "{548C231D-B0B1-CBD8-5E6C-C0D32BAA9301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDD2244E-548C-3CA7-D4D0-021D4B98CF8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD2244E-548C-3CA7-D4D0-021D4B98CF8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD2244E-548C-3CA7-D4D0-021D4B98CF8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD2244E-548C-3CA7-D4D0-021D4B98CF8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{767CA6A5-7C88-A443-F952-AD91B34B6746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{767CA6A5-7C88-A443-F952-AD91B34B6746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{767CA6A5-7C88-A443-F952-AD91B34B6746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{767CA6A5-7C88-A443-F952-AD91B34B6746}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548C231D-B0B1-CBD8-5E6C-C0D32BAA9301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548C231D-B0B1-CBD8-5E6C-C0D32BAA9301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548C231D-B0B1-CBD8-5E6C-C0D32BAA9301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548C231D-B0B1-CBD8-5E6C-C0D32BAA9301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

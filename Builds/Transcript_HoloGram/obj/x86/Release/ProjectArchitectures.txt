@@ -1,0 +1,4 @@
+C:\Users\rache\Documents\Unity Projects\Transcript_HoloGram\Builds\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\rache\Documents\Unity Projects\Transcript_HoloGram\Builds\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\rache\Documents\Unity Projects\Transcript_HoloGram\Builds\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\rache\Documents\Unity Projects\Transcript_HoloGram\Builds\Transcript_HoloGram\Transcript_HoloGram.csproj;x86
